@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-hiwatashi&show_icons=true&theme=transparent)
 
 # Stats
-[![Followers](https://badgen.org/img/zenn/h_h/followers?style=flat)](https://zenn.dev/h_h)
+[![Followers](https://badgen.org/img/zenn/h_h/followers)](https://zenn.dev/h_h)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-hiwatashi&layout=pie)](https://github.com/h-hiwatashi) 
 
